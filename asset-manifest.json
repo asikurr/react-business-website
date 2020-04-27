@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react-business-website/static/css/main.444902b5.chunk.css",
+    "main.js": "/react-business-website/static/js/main.2c7e5ccb.chunk.js",
+    "main.js.map": "/react-business-website/static/js/main.2c7e5ccb.chunk.js.map",
+    "runtime-main.js": "/react-business-website/static/js/runtime-main.a54de745.js",
+    "runtime-main.js.map": "/react-business-website/static/js/runtime-main.a54de745.js.map",
+    "static/css/2.fe747e67.chunk.css": "/react-business-website/static/css/2.fe747e67.chunk.css",
+    "static/js/2.e9a57e71.chunk.js": "/react-business-website/static/js/2.e9a57e71.chunk.js",
+    "static/js/2.e9a57e71.chunk.js.map": "/react-business-website/static/js/2.e9a57e71.chunk.js.map",
+    "index.html": "/react-business-website/index.html",
+    "precache-manifest.8ddcf806a0643dc8b379c7b9795c8e5e.js": "/react-business-website/precache-manifest.8ddcf806a0643dc8b379c7b9795c8e5e.js",
+    "service-worker.js": "/react-business-website/service-worker.js",
+    "static/css/2.fe747e67.chunk.css.map": "/react-business-website/static/css/2.fe747e67.chunk.css.map",
+    "static/css/main.444902b5.chunk.css.map": "/react-business-website/static/css/main.444902b5.chunk.css.map",
+    "static/js/2.e9a57e71.chunk.js.LICENSE.txt": "/react-business-website/static/js/2.e9a57e71.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/react-business-website/static/media/1.bb9c6963.jpg",
+    "static/media/2.jpg": "/react-business-website/static/media/2.8570eed7.jpg",
+    "static/media/3.jpg": "/react-business-website/static/media/3.35238497.jpg",
+    "static/media/4.jpg": "/react-business-website/static/media/4.1a15e1ac.jpg",
+    "static/media/style.css": "/react-business-website/static/media/testimonial.6833ecb3.jpg",
+    "static/media/about1.jpg": "/react-business-website/static/media/about1.c438aabb.jpg",
+    "static/media/about2.jpg": "/react-business-website/static/media/about2.14bd77af.jpg",
+    "static/media/aboutsection.jpg": "/react-business-website/static/media/aboutsection.e9e63e56.jpg",
+    "static/media/blog1.jpg": "/react-business-website/static/media/blog1.23d6f0e0.jpg",
+    "static/media/blog2.jpg": "/react-business-website/static/media/blog2.e12c6af4.jpg",
+    "static/media/skill.jpg": "/react-business-website/static/media/skill.00abb5e2.jpg",
+    "static/media/slick-theme.css": "/react-business-website/static/media/slick.f97e3bbf.svg",
+    "static/media/slider1.jpg": "/react-business-website/static/media/slider1.7790ece7.jpg",
+    "static/media/slider2.jpg": "/react-business-website/static/media/slider2.1f617fd8.jpg",
+    "static/media/slider3.jpg": "/react-business-website/static/media/slider3.47ee3e37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a54de745.js",
+    "static/css/2.fe747e67.chunk.css",
+    "static/js/2.e9a57e71.chunk.js",
+    "static/css/main.444902b5.chunk.css",
+    "static/js/main.2c7e5ccb.chunk.js"
+  ]
+}
