@@ -17,7 +17,7 @@ class Skill extends Component {
 
     render() {
        const onclickhandle = () =>{
-            if(this.state.after == faMinus ){
+            if(this.state.after === faMinus ){
                 this.setState({after:faPlus})
             }else{
                 this.setState({after:faMinus})

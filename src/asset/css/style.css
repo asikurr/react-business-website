@@ -4,6 +4,7 @@
 }
 body{
     font-family: 'Josefin Sans', sans-serif;
+    overflow-x: hidden;
 }
 .sliderImg{
     height: 100vh;
@@ -616,4 +617,18 @@ body{
 .mukto{
     padding-right: 0px;
     padding-left: 0px;
+}
+
+
+/*==========================*/
+/*====Responsive design============*/
+/*==========================*/
+
+@media only screen and (max-width:450px){
+    .about-single p {
+        width: 405px;
+    }
+    .blog-text {
+        left: 21%;
+    }
 }

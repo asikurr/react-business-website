@@ -20,14 +20,14 @@ class Blog extends Component {
                             <Row>
                                 <Col lg={6} md={6} sm={12}>
                                     <div className="blog-single">
-                                        <img src={blog1} alt="Blog Image" />
+                                        <img src={blog1} alt="Blog Img" />
                                         <div className="blog-text">
                                             <h4>Omnis voluptas assumenda est</h4>
                                             <h5>By Redactor on January 15, 2016</h5>
                                             <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus
                                                 saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
                                             </p>
-                                            <a href="">Read More&raquo;</a>
+                                            <a href="#">Read More&raquo;</a>
                                         </div>
                                     </div>
 
@@ -35,7 +35,7 @@ class Blog extends Component {
 
                                 <Col lg={6} md={6} sm={12}>
                                     <div className="blog-single col-md-6">
-                                        <img src={blog2} alt="Blog Image"/>
+                                        <img src={blog2} alt="Blog Img"/>
                                         <div className="blog-text">
                                             <h4>Omnis voluptas assumenda est</h4>
                                             <h5>By Redactor on January 15, 2016</h5>
